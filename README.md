@@ -1,3 +1,22 @@
+pre-rquisite
+
+node js should installed mechine
+
+step 1: goto official node.js website
+download node.js(LTS version approx 22.xx.xx)
+
+
+setp 2: run the installer
+
+step 3: verify installation usinf cmd
+
+node -v
+
+step 4: check npm -v
+
+step 5: checking installed path
+where node
+
 # Whatsapp-messaging-Integration(**Baileys**) 
 Whatsapp messaging integration on application
 
